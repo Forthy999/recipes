@@ -1,0 +1,7 @@
+(1) Take bread out of packet
+(2) Put bread in toaster
+(3) Activate toaster
+(4) wait for a bit
+(5) When toast jumps out of toaster, remove it
+(6) Add butter
+(7) Profit
